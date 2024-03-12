@@ -21,3 +21,11 @@ I have most knowledge in **Python, HTML and CSS**.
 
 ## Project 1
 For project 1 we have been tasked to make a meme using R, but also using the [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) package.
+
+### Some things that our HTML document will provide are:
+
+1. The **inspiration** meme
+2. The **meme** we created
+3. The **animated meme** we created
+4. The **code** for our created memes
+5. **Reflections** and **Justifications**, etc.
