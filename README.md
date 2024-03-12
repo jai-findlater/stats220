@@ -1,6 +1,17 @@
 # STATS 220 - Jai
-## STATS 220
+## Overview
 This is my repository for **STATS 220** and it's also the first repository I've ever made on **GitHub**.
+
+This is also the first time I have ever used R let alone the {magick} package. Below is a list of some of the coding languages I have used before:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Python
+
+I have most knowledge in **Python, HTML and CSS**.
+
+## Reason For The Repo
 
 - *Link to the **GitHub** Repository - [stats220](https://github.com/jai-findlater/stats220)*
 
