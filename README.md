@@ -15,7 +15,7 @@ I have most knowledge in **Python, HTML and CSS**.
 
 - *Link to the **GitHub** Repository - [stats220](https://github.com/jai-findlater/stats220)*
 
-- *Link to the **GitHub* Pages - [Index](https://jai-findlater.github.io/stats220/)*
+- *Link to the optional **GitHub** Pages that I set up - [Index](https://jai-findlater.github.io/stats220/)*
 
 - *This is where I will be storing lots of my files for **STATS 220** throughout this course!*
 
